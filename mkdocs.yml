@@ -1,0 +1,18 @@
+site_name: CTF Toolbox
+site_url: https://hendricksonja.github.io/ctf-tools/
+repo_url: https://github.com/hendricksonja/ctf-tools
+
+nav:
+  - Home: index.md
+  - Cheat Sheet: cheatsheet.md
+  - Full Toolbox: toolbox.md
+
+theme:
+  name: mkdocs
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - fenced_code
+  - admonition
