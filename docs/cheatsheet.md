@@ -1,6 +1,5 @@
-Here’s a clean `docs/cheatsheet.md` you can drop in:
 
-````markdown
+
 # CTF Tools Cheat Sheet
 
 Quick, high-signal reference for common CTF actions.  
