@@ -1,7 +1,3 @@
-# ctf-tools
-Just a basic description of various tools used in Capture the Flag competitions
-
-
 # CTF Toolbox Reference
 
 A quick-reference guide for common tools used in Capture the Flag challenges.  
