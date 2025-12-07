@@ -943,11 +943,11 @@ git clone https://github.com/your-team/ctf-scripts.git
 
 ---
 
-> **Tip for students:** When stuck, think:
->
-> * *What kind of challenge is this?* (web, pwn, crypto, reverse, forensics, stego, misc)
-> * Search this document for that category or tag.
-> * Try the suggested tools and example commands before giving up.
+## **Tip for students:** When stuck, think:
+
+ * *What kind of challenge is this?* (web, pwn, crypto, reverse, forensics, stego, misc)
+ * Search this document for that category or tag.
+ * Try the suggested tools and example commands before giving up.
 
 
 
